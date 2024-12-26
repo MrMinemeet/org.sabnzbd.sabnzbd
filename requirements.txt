@@ -1,4 +1,5 @@
 # Flatpak requirements
+# maturin is defined in .yaml file
 setuptools_rust==1.9.0
 setuptools_scm==8.1.0
 meson-python==0.16.0

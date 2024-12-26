@@ -2,6 +2,6 @@
 /.flatpak-builder
 /.idea
 /.vscode
-Cargo.lock
+*.lock
 flatpak-pip-generator
 flatpak-cargo-generator.py
